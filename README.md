@@ -1,60 +1,35 @@
-# 👋 ¡Hola! Soy Yerson Gallardo
+# Yerson Gallardo
+**Cloud Engineer | DevOps | Azure & AWS Specialist**
+*Trujillo, Perú*
 
-🚀 **SysOps & Cloud Infrastructure Specialist | En camino a DevOps completo**  
-📍 Trujillo, Perú | 💼 Actualmente en NTT DATA Europe & Latam  
-🎓 Egresado de Ingeniería de Sistemas Computacionales  
-🌐 [LinkedIn](https://www.linkedin.com/in/yrgg96/) | 📧 ygallardops@proton.me
+Ingeniero Cloud con experiencia en administración de infraestructura crítica para el sector bancario. Especializado en la automatización de operaciones, gestión de identidades y optimización de recursos en entornos híbridos y multi-cloud. Enfoque en seguridad, alta disponibilidad y prácticas SRE.
 
----
+## 🛠 Skills
 
-## 💼 Experiencia destacada
+**Cloud Platforms**
+*   **Azure:** AKS, APIM, Entra ID, Service Bus, SQL Database, Cosmos DB.
+*   **AWS:** EC2, S3, RDS, DynamoDB, Lambda, VPC, Route 53.
+**DevOps & Automation**
+*   **IaC:** Terraform, CloudFormation, ARM Templates.
+*   **CI/CD:** Azure DevOps, GitHub Actions, Bamboo, Bitbucket Pipelines.
+*   **Scripting:** Python, Bash, PowerShell.
+*   **Containers:** Docker, Kubernetes (AKS).
+**Observability & OS**
+*   **Monitoring:** Azure Monitor, CloudWatch, New Relic.
+*   **Systems:** Linux (Ubuntu, CentOS), Windows Server.
 
-### 🏢 **NTT DATA Europe & Latam – Process System Technician**
-- Gestión de infraestructura en AWS y Azure: EC2, RDS, S3, VPC, Route 53, Web Apps.
-- Administración de sistemas en entornos híbridos (Windows Server, Linux, VMware).
-- Automatización de despliegues con CI/CD (Jira, Bamboo, Bitbucket).
-- Monitoreo de rendimiento y seguridad con **CloudWatch** y **New Relic**.
+## 📂 Featured Work
 
-### ☁️ **Chain Services – Consultor Cloud Jr**
-- Despliegue de APIs en AWS usando **API Gateway**, **Lambda**, **Cognito**, **DynamoDB**.
-- Desarrollo backend con **.NET Core** y **SQL Server**.
+### [infrastructure-modules](https://github.com/ygallardops)
+*Repositorio en construcción*
+Colección de módulos de Terraform para el despliegue estandarizado de recursos en Azure (VNet, AKS, Key Vault) siguiendo mejores prácticas de seguridad.
 
----
+### [ops-automation](https://github.com/ygallardops)
+*Repositorio en construcción*
+Scripts de mantenimiento operativo en Python y Bash. Incluye utilidades para rotación de logs, limpieza de snapshots y validación de estado de servicios.
 
-## 🧰 Tech Stack
-
-### ☁️ Cloud & Infra
-`AWS` `Azure` `VMware vSphere` `Windows Server` `Linux` `Active Directory`
-
-### ⚙️ DevOps & Automatización
-`Docker` `CI/CD (Bamboo, Bitbucket, GitHub Actions)` `Jira` `Ansible (learning)` `Terraform (en proceso)`
-
-### 💻 Backend & Bases de Datos
-`.NET Core` `SQL Server` `PostgreSQL` `VB.NET` `Oracle`
-
-### 🧪 Monitoreo & Logging
-`New Relic` `CloudWatch` `Healthchecks` `Oracle WebLogic`
+### [devops-knowledge-base](https://github.com/ygallardops/devops-notes)
+Documentación técnica y guías de resolución de problemas (Troubleshooting) para escenarios comunes en Azure y AWS.
 
 ---
-
-## 🛠️ Repositorios en progreso
-
-- 🔧 `dotfiles`: configuración de entorno Zsh, alias, Vim, terminal productiva.
-- ⚙️ `aws-lambda-api-demo`: ejemplo de despliegue CI/CD en AWS.
-- 📜 `ansible-playbooks`: automatización de servidores Linux y Windows.
-- 🧱 `terraform-labs`: infraestructura como código para entornos cloud.
-- 🔒 `backup-script-borg`: respaldo cifrado con BorgBackup + cron.
-- 🧪 `monitoring-lab`: prueba con Netdata y Prometheus para métricas.
-
----
-
-## 📈 En este perfil vas a encontrar:
-
-- Proyectos reales basados en experiencia laboral.
-- Scripts, documentación y configuraciones reproducibles.
-- Enfoque en buenas prácticas, seguridad y automatización.
-
----
-
-
----
+[LinkedIn](https://www.linkedin.com/in/yrgg96) | 
