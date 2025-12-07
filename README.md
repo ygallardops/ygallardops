@@ -9,11 +9,13 @@ Ingeniero Cloud con experiencia en administración de infraestructura crítica p
 **Cloud Platforms**
 *   **Azure:** AKS, APIM, Entra ID, Service Bus, SQL Database, Cosmos DB.
 *   **AWS:** EC2, S3, RDS, DynamoDB, Lambda, VPC, Route 53.
+  
 **DevOps & Automation**
 *   **IaC:** Terraform, CloudFormation, ARM Templates.
 *   **CI/CD:** Azure DevOps, GitHub Actions, Bamboo, Bitbucket Pipelines.
 *   **Scripting:** Python, Bash, PowerShell.
 *   **Containers:** Docker, Kubernetes (AKS).
+  
 **Observability & OS**
 *   **Monitoring:** Azure Monitor, CloudWatch, New Relic.
 *   **Systems:** Linux (Ubuntu, CentOS), Windows Server.
