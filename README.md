@@ -22,6 +22,12 @@ Ingeniero Cloud con experiencia en administración de infraestructura crítica p
 
 ## 📂 Featured Work
 
+### [devops-notes](https://github.com/ygallardops/devops-notes)
+Documentación técnica y guías de resolución de problemas (Troubleshooting) para escenarios comunes en Azure y AWS.
+
+### [ansible-playbooks](https://github.com/ygallardops/ansible-playbooks)
+Playbooks de Ansible para automatizar la configuración de servidores Linux, la instalación de Docker y el hardening básico de la seguridad.
+
 ### [infrastructure-modules](https://github.com/ygallardops)
 *Repositorio en construcción*
 Colección de módulos de Terraform para el despliegue estandarizado de recursos en Azure (VNet, AKS, Key Vault) siguiendo mejores prácticas de seguridad.
@@ -29,9 +35,6 @@ Colección de módulos de Terraform para el despliegue estandarizado de recursos
 ### [ops-automation](https://github.com/ygallardops)
 *Repositorio en construcción*
 Scripts de mantenimiento operativo en Python y Bash. Incluye utilidades para rotación de logs, limpieza de snapshots y validación de estado de servicios.
-
-### [devops-knowledge-base](https://github.com/ygallardops/devops-notes)
-Documentación técnica y guías de resolución de problemas (Troubleshooting) para escenarios comunes en Azure y AWS.
 
 ---
 [LinkedIn](https://www.linkedin.com/in/yrgg96) | 
