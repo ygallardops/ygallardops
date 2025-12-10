@@ -32,7 +32,7 @@ Playbooks de Ansible para automatizar la configuración de servidores Linux, la 
 *Repositorio en construcción*
 Colección de módulos de Terraform para el despliegue estandarizado de recursos en Azure (VNet, AKS, Key Vault) siguiendo mejores prácticas de seguridad.
 
-### [ops-automation](https://github.com/ygallardops)
+### [ops-automation](https://github.com/ygallardops/ops-automation)
 *Repositorio en construcción*
 Scripts de mantenimiento operativo en Python y Bash. Incluye utilidades para rotación de logs, limpieza de snapshots y validación de estado de servicios.
 
