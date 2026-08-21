@@ -1,39 +1,45 @@
 # Yerson Gallardo
-**Cloud Engineer | DevOps | Azure & AWS Specialist**
-*Trujillo, Perú*
 
-Ingeniero Cloud con experiencia en administración de infraestructura crítica para el sector bancario. Especializado en la automatización de operaciones, gestión de identidades y optimización de recursos en entornos híbridos y multi-cloud. Enfoque en seguridad, alta disponibilidad y prácticas SRE.
+**Automatización y mejora de procesos · Gestión documental en salud · Cloud (AWS y Azure)**
+Trujillo, Perú · [yersongallardo.com](https://yersongallardo.com)
 
-## 🛠 Skills
+Trabajo en la Unidad de Registros Médicos de un hospital de alta complejidad de EsSalud, donde buena parte del trabajo documental todavía se hace a mano. Antes estuve tres años en soporte y operación de infraestructura en AWS, Azure y on-premises, y antes de eso en desarrollo backend con .NET.
 
-**Cloud Platforms**
-*   **Azure:** AKS, APIM, Entra ID, Service Bus, SQL Database, Cosmos DB.
-*   **AWS:** EC2, S3, RDS, DynamoDB, Lambda, VPC, Route 53.
-  
-**DevOps & Automation**
-*   **IaC:** Terraform, CloudFormation, ARM Templates.
-*   **CI/CD:** Azure DevOps, GitHub Actions, Bamboo, Bitbucket Pipelines.
-*   **Scripting:** Python, Bash, PowerShell.
-*   **Containers:** Docker, Kubernetes (AKS).
-  
-**Observability & OS**
-*   **Monitoring:** Azure Monitor, CloudWatch, New Relic.
-*   **Systems:** Linux (Ubuntu, CentOS), Windows Server.
+Esa combinación es lo que me interesa explotar: **conozco el proceso desde adentro y sé construir el software que lo automatiza.** Bachiller en Ingeniería de Sistemas Computacionales.
 
-## 📂 Featured Work
+## Proyectos
 
-### [devops-notes](https://github.com/ygallardops/devops-notes)
-Documentación técnica y guías de resolución de problemas (Troubleshooting) para escenarios comunes en Azure y AWS.
+### [conoce-tu-enfermero-demo](https://github.com/ygallardops/conoce-tu-enfermero-demo)
 
-### [ansible-playbooks](https://github.com/ygallardops/ansible-playbooks)
-Playbooks de Ansible para automatizar la configuración de servidores Linux, la instalación de Docker y el hardening básico de la seguridad.
+Prototipo serverless para sustituir el validador público de colegiatura del Colegio de Enfermeros del Perú. Consulta sin registro ni recolección de datos del consultante, proyección pública aislada del padrón maestro, y controles anti-enumeración sin infraestructura permanente.
 
-### [ops-automation](https://github.com/ygallardops/ops-automation)
-Scripts de mantenimiento operativo en Python y Bash. Incluye utilidades para rotación de logs, limpieza de snapshots y validación de estado de servicios.
+Cloudflare Workers · D1 · Turnstile · TypeScript · React 19
+CI con CodeQL, OWASP ZAP, Dependency Review y Dependabot
 
-### [infrastructure-modules](https://github.com/ygallardops)
-*Repositorio en construcción*
-Colección de módulos de Terraform para el despliegue estandarizado de recursos en Azure (VNet, AKS, Key Vault) siguiendo mejores prácticas de seguridad.
+[Ver la demo](https://enfermeros-demo.yersongallardo.com/) · [Contrato OpenAPI](https://github.com/ygallardops/conoce-tu-enfermero-demo/blob/main/openapi/consulta-api.yaml) · Datos sintéticos, no oficial
 
----
-[LinkedIn](https://www.linkedin.com/in/yrgg96) | 
+### [yersongallardo.com](https://yersongallardo.com)
+
+Mi sitio personal. Estático, sin JavaScript de terceros, con CSP por hash, HSTS y una línea base de accesibilidad documentada. Eleventy sobre Cloudflare Pages, con decisiones de arquitectura registradas en ADR.
+
+## Apuntes y laboratorios
+
+No son entregables profesionales: son notas de estudio y prácticas que mantengo en público.
+
+- **[devops-notes](https://github.com/ygallardops/devops-notes)** — Apuntes de troubleshooting y patrones de Azure y AWS recopilados mientras trabajaba en soporte.
+- **[ansible-playbooks](https://github.com/ygallardops/ansible-playbooks)** — Playbooks de práctica para configuración de servidores Linux, Docker y hardening básico.
+- **[ops-automation](https://github.com/ygallardops/ops-automation)** — Ejercicios de automatización operativa en Python y Bash.
+
+## Con lo que he trabajado
+
+**Cloud y operación** — Soporte N1/N2 en AWS (EC2, S3, RDS, Lambda, DynamoDB, Route 53, Elastic Beanstalk, CloudFormation) y Azure (App Service, Azure SQL, Storage, AKS, API Management, Entra ID). Monitoreo con CloudWatch, Azure Monitor y New Relic.
+
+**Desarrollo** — .NET Core y SQL Server; APIs sobre API Gateway, Cognito y Lambda. Python, Bash y PowerShell para automatización.
+
+**Gestión de información** — Historias clínicas y documentación asistencial, HIS MINSA y SISCAP, consolidación y reporte de información asistencial.
+
+**Certificaciones** — Oracle Cloud Infrastructure 2025 Foundations · Microsoft Azure Fundamentals (AZ-900) · Scrum Fundamentals
+
+## Contacto
+
+[yerson.gallardo.96@gmail.com](mailto:yerson.gallardo.96@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yrgg96/) · [yersongallardo.com](https://yersongallardo.com)
