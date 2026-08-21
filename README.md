@@ -16,11 +16,7 @@ Prototipo serverless para sustituir el validador público de colegiatura del Col
 Cloudflare Workers · D1 · Turnstile · TypeScript · React 19
 CI con CodeQL, OWASP ZAP, Dependency Review y Dependabot
 
-[Ver la demo](https://enfermeros-demo.yersongallardo.com/) · [Contrato OpenAPI](https://github.com/ygallardops/conoce-tu-enfermero-demo/blob/main/openapi/consulta-api.yaml) · Datos sintéticos, no oficial
-
-### [yersongallardo.com](https://yersongallardo.com)
-
-Mi sitio personal. Estático, sin JavaScript de terceros, con CSP por hash, HSTS y una línea base de accesibilidad documentada. Eleventy sobre Cloudflare Pages, con decisiones de arquitectura registradas en ADR.
+[Ver la demo](https://enfermeros-demo.yersongallardo.com/) · [Caso de estudio](https://yersongallardo.com/proyectos/conoce-tu-enfermero/) · [Contrato OpenAPI](https://github.com/ygallardops/conoce-tu-enfermero-demo/blob/main/openapi/consulta-api.yaml) · Datos sintéticos, no oficial
 
 ## Apuntes y laboratorios
 
