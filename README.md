@@ -3,7 +3,7 @@
 **Automatización y mejora de procesos · Gestión documental en salud · Cloud (AWS y Azure)**
 Trujillo, Perú · [yersongallardo.com](https://yersongallardo.com)
 
-Trabajo en la Unidad de Registros Médicos de un hospital de alta complejidad de EsSalud, donde buena parte del trabajo documental todavía se hace a mano. Antes estuve tres años en soporte y operación de infraestructura en AWS, Azure y on-premises, y antes de eso en desarrollo backend con .NET.
+Trabajo en la Unidad de Registros Médicos de un hospital de alta complejidad de EsSalud, donde buena parte del trabajo documental todavía se hace a mano. Antes estuve más de dos años en soporte y operación de infraestructura en AWS, Azure y on-premises, y antes de eso en desarrollo backend con .NET.
 
 Esa combinación es lo que me interesa aprovechar: **entender el proceso desde dentro cambia qué automatización tiene sentido proponer.** Bachiller en Ingeniería de Sistemas Computacionales.
 
