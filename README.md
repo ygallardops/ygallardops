@@ -5,7 +5,7 @@
 
 <br>
 
-Trabajo en la Unidad de Registros Médicos de un hospital de alta complejidad de EsSalud, donde gran parte del trabajo documental todavía se hace a mano. Antes operé infraestructura en AWS, Azure y servidores on-premises durante más de dos años en NTT DATA, y antes de eso hice desarrollo backend con .NET.
+Trabajo en la Unidad de Registros Médicos del Hospital Alta Complejidad Virgen de la Puerta - EsSalud, donde gran parte del trabajo documental todavía se hace a mano. Antes operé infraestructura en AWS, Azure y servidores on-premises durante más de dos años en NTT DATA, y antes de eso hice desarrollo backend con .NET.
 
 > **Entender el proceso desde dentro cambia qué automatización tiene sentido proponer.**
 
@@ -49,7 +49,7 @@ No son entregables profesionales: son notas de estudio y prácticas que mantengo
 
 ## Trayectoria
 
-- **Hoy:** Digitador Asistencial en la Unidad de Registros Médicos de EsSalud.
+- **Hoy:** Digitador Asistencial en la Unidad de Registros Médicos del Hospital Alta Complejidad Virgen de la Puerta - EsSalud.
 - **NTT DATA, más de dos años:** operación de infraestructura en AWS, Azure y on-premises. Pasé del soporte de primer nivel al de segundo nivel.
 - **Antes:** soporte de aplicaciones y desarrollo backend con .NET y SQL Server para empresas del Grupo Romero.
 - **Formación:** bachiller en Ingeniería de Sistemas Computacionales (UPN) y profesional técnico en Computación e Informática (Cibertec).
