@@ -49,7 +49,7 @@ No son entregables profesionales: son notas de estudio y prácticas que mantengo
 
 ## Trayectoria
 
-- **Hoy:** digitador asistencial en la Unidad de Registros Médicos de EsSalud.
+- **Hoy:** Digitador Asistencial en la Unidad de Registros Médicos de EsSalud.
 - **NTT DATA, más de dos años:** operación de infraestructura en AWS, Azure y on-premises. Pasé del soporte de primer nivel al de segundo nivel.
 - **Antes:** soporte de aplicaciones y desarrollo backend con .NET y SQL Server para empresas del Grupo Romero.
 - **Formación:** bachiller en Ingeniería de Sistemas Computacionales (UPN) y profesional técnico en Computación e Informática (Cibertec).
