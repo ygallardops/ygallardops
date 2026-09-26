@@ -43,7 +43,7 @@ No son entregables profesionales: son notas de estudio y prácticas que mantengo
 
 | Repositorio | Qué contiene |
 | --- | --- |
-| [**devops-notes**](https://github.com/ygallardops/devops-notes) | Apuntes de troubleshooting y patrones de Azure y AWS, reunidos durante mi trabajo en soporte. [Leer en línea](https://ygallardops.github.io/devops-notes/) |
+| [**devops-notes**](https://github.com/ygallardops/devops-notes) | Apuntes de troubleshooting en Azure reunidos durante mi trabajo en soporte. Por ahora, diagnóstico de pods en AKS. [Leer en línea](https://ygallardops.github.io/devops-notes/) |
 | [**ansible-playbooks**](https://github.com/ygallardops/ansible-playbooks) | Playbooks de práctica para configurar servidores Linux, instalar Docker y aplicar hardening básico. |
 | [**ops-automation**](https://github.com/ygallardops/ops-automation) | Ejercicios de automatización operativa en Python y Bash, con pruebas y CI. |
 
