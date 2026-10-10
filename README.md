@@ -37,6 +37,15 @@ Prototipo de consulta pública de colegiatura que responde sin pedir identificac
 
 <sub>Datos sintéticos. Proyecto personal, sin relación con el Colegio de Enfermeros del Perú.</sub>
 
+## Automatización documental
+
+Herramientas hechas con Google Sheets y Apps Script, sin instalar software.
+
+| Repositorio | Qué hace | Estado |
+| --- | --- | --- |
+| [**control-papel-bond**](https://github.com/ygallardops/control-papel-bond) | Controla el ingreso y la salida de papel bond A4 con cargo firmado: registra cada movimiento, mantiene el stock y numera las entregas en una planilla para la firma. | [v1.0.0](https://github.com/ygallardops/control-papel-bond/releases/tag/v1.0.0). No es un desarrollo oficial de ninguna institución. |
+| [**donde-esta-la-historia**](https://github.com/ygallardops/donde-esta-la-historia) | Apoya el control de préstamos de historias clínicas físicas según la NTS N.° 139-MINSA/2018/DGAIN: salida, devolución, fecha límite y cargo. Guarda solo el número de historia. | En desarrollo. No debe usarse con datos reales sin la aprobación formal de la IPRESS. |
+
 ## Apuntes y laboratorios
 
 No son entregables profesionales: son notas de estudio y prácticas que mantengo en público.
