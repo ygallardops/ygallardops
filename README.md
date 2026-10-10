@@ -82,6 +82,7 @@ No son entregables profesionales: son notas de estudio y prácticas que mantengo
 ![Terraform](https://img.shields.io/badge/Terraform-265f51?style=flat-square)
 ![Ansible](https://img.shields.io/badge/Ansible-265f51?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-265f51?style=flat-square)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-265f51?style=flat-square)
 
 **Salud** &nbsp;
 ![HIS MINSA](https://img.shields.io/badge/HIS_MINSA-265f51?style=flat-square)
